@@ -10,3 +10,4 @@ You need P4 VM to create topologies and compile P4 with one bmv2 switch the expe
 
 Red hosts can only communicate with red server and blue ones only with blue servers randomly via 1 bmv2 switch. Hosts can only see fake service IP and fake service MAC, the servers are invisible from the a host pov. Servers can see host src IP so they can reply. The switch P4 programme handles the comunication bewtween who can speak with who and what can be seen from each edge.
 
+*This assignment is made for CS436 course*
